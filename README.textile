@@ -80,3 +80,15 @@ The screen refreshes every 3 seconds.
 h2. License
 
 This project is licensed under the Apache License Version 2.0
+
+h3. explains
+
+ID SERVER                PORT M    OUTST    RECVD     SENT CONNS MINLAT AVGLAT MAXLAT
+
+* MODE 
+
+   F -- follower
+   L -- Leader
+   U -- Unavailable / Unknown
+
+* OUTST (outstanding)   
